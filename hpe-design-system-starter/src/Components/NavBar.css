@@ -1,0 +1,18 @@
+
+.card-container {
+    position: absolute;
+    top: calc(100% + 10px);
+    right: 10px;
+}
+
+.email {
+    color: #6F6F6F;
+}
+
+.home-name {
+    position: absolute;
+    padding-left:40px;
+    color: #0D7AB5;
+    font-size: 130%;
+    font-weight: 600;
+}

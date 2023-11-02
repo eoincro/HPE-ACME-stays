@@ -1,0 +1,22 @@
+.low-rate-caret {
+    cursor: none;
+    opacity: 0.5;
+    background-color: #BBA4FB30;
+    border-color:#BBA4FB;
+    border-radius: 8px;
+    width: 18%;
+    height: 105%;
+    margin-top: 1%;
+    font-weight: 400;
+}
+.usually-booked-caret {
+    cursor: none;
+    opacity: 0.5;
+    background-color: #64C0F330;
+    border-color: #0D7AB5;
+    color: black;
+    border-radius: 8px;
+    width: 18%;
+    height: 105%;
+    margin-top: 1%;    font-weight: 200;
+}
